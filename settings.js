@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz' : 'your key', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz' : 'WuG9ZlTq', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 global.self_mode = false
@@ -21,16 +21,16 @@ global.auto_welcome_msg = true
 global.auto_leave_msg = true
 global.prefix = "."
 global.language = "ind"
-global.ownerNumberr = "62887435047326"
-global.ownerbot = ['62887435047326@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.ownerNumberr = "628995888005"
+global.ownerbot = ['628995888005@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
+global.ownername = "Ghilar"
 global.botname = "Alphabot"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.fake = "「  ALPHABOT  」\nCreated By Ghilar"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
